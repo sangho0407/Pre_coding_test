@@ -1,1 +1,1 @@
-# Pre_coding_test
+I have created this repository to document my coding journey as I prepare for coding interviews. Here, you will find a collection of coding test problems and my solutions, serving as a record of my progress and growth in the world of programming.
